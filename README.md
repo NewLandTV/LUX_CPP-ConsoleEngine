@@ -2,6 +2,8 @@
 
 This is console game engine.
 
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLG6918Ng_f9sXkRc41jdwX85Xhao2qaos)
+
 **How to use**?
 
 Copy the LUX.h and LUX.cpp files to your working folder. And include the LUX.h file.
